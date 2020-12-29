@@ -4,13 +4,20 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(lubridate)
 library(ggplot2)
 library(googlesheets4)
+library(gt)
+```
+
+
+```{r gsheet, message=FALSE, warning=FALSE, comment=""}
 gsheet <- "1W9duSTZ9hAhlV3yxFeM7qqIFc8Gca2utVe4WxMg0_1A"
+gs4_auth(email = "katti.vishal@gmail.com")
 
 skills         <- read_sheet(ss = gsheet, sheet = "Skills")
 tools          <- read_sheet(ss = gsheet, sheet = "Tools")
@@ -31,4 +38,110 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 - 🤔 I’m looking for career guidance.
 - 💬 Ask me about how R can help automate your Excel reports.
 - 📫 How to reach me: twitter
-- ⚡ Fun fact: I am a father to a hyper-active 2 year old daughter.
+- ⚡ Fun fact: The data in this .md file comes from Google Sheets and is created with R and 💖
+
+## Work Experience
+
+```{r work}
+exp_months <- as.period(Sys.Date() - as_date("2010-09-28")) %/% months(1)
+
+exp_mon <- exp_months %% 12
+exp_yrs <- exp_months %/% 12
+
+work %>% 
+  mutate(
+    From = lubridate::as_date(From),
+    To = lubridate::as_date(To)
+    ) %>% 
+  group_by(Employer) %>% 
+gt() %>%
+  tab_header(title = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience.")) %>% 
+  tab_source_note(md("Data Source: Vishal's MyCV GSheet. Built with {gt}")) %>%
+  cols_label(Loc = "Location", Position = "Role",From = "From", To = "To") %>% 
+  tab_style(style = cell_text(weight = "bold"), locations = cells_body(rows = 1:2)) %>% 
+  tab_style(style = cell_text(color = "gray"), locations = cells_body(rows = 3:7)) %>% 
+  fmt(columns = 4:5, fns = function(x) ifelse(!is.na(x), format(x, '%b %Y'),"Till Date")) %>% 
+  tab_options(table.font.size = 12, 
+              column_labels.font.weight = "bold", 
+              data_row.padding = px(1), 
+              table.align = "left",
+              source_notes.font.size = 9,
+              row_group.background.color = "#4169E1",
+              row_group.font.size = 14,
+              row_group.font.weight = "bold"
+              )
+```
+
+## Career Highlights
+
+```{r highlights}
+highlights %>% 
+  mutate(Start = format(Start, "%b %Y"),
+         End = format(End, "%b %Y"),
+         When = if_else(is.na(End), Start, paste0(Start, "-", End))) %>% 
+  select(-c(Start, End)) %>% 
+  gt() %>% 
+  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
+  tab_options(table.font.size = 12, 
+              column_labels.font.weight = "bold", 
+              data_row.padding = px(1), 
+              table.align = "left",
+              source_notes.font.size = 9)
+```
+
+## Skills
+
+```{r skills}
+gt(skills) %>% 
+  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
+  tab_options(table.font.size = 12, 
+              column_labels.font.weight = "bold", 
+              data_row.padding = px(1), 
+              table.align = "left",
+              source_notes.font.size = 9)
+```
+
+```{r tools}
+tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) %>% 
+ggplot() +
+  theme_minimal() +
+  geom_col(aes(x = Score, y = Tool, fill = Score)) +
+  geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white") +
+  geom_text(aes(x = Score-0.25, y = Tool, label = paste0(Score,"/10")), hjust = 1, color = "white") +
+  expand_limits(x = c(0, 10), y = c(0,0)) +
+  scale_fill_gradient2() +
+  ggtitle("Tool Competency Levels", 
+       subtitle = "Scores out of 10 for each tool.") +
+  labs(caption = "Data Source: Vishal's MyCV GSheet. Built with {ggplot2}") +
+  theme(legend.position = "none",
+        axis.title = element_blank(),
+        axis.text = element_blank(),
+        panel.grid = element_blank(),
+        plot.caption = element_text(hjust = 0)
+        )
+```
+
+## Education
+
+```{r education}
+gt(education) %>% 
+  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
+  fmt(columns = vars(From, To), fns = function(x) format(x, "%b %Y")) %>% 
+  tab_options(table.font.size = 12, 
+              column_labels.font.weight = "bold", 
+              data_row.padding = px(1), 
+              table.align = "left",
+              source_notes.font.size = 9)
+```
+
+
+
+
+
+
+
+
+
+
+
+
