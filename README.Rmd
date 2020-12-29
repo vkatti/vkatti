@@ -42,6 +42,9 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 ## Work Experience
 
+
+
+
 ```{r work}
 exp_months <- as.period(Sys.Date() - as_date("2010-09-28")) %/% months(1)
 
@@ -71,6 +74,17 @@ gt() %>%
               row_group.font.weight = "bold"
               )
 ```
+
+```{r}
+work %>% 
+  mutate(
+    From = format(lubridate::as_date(From),"%b %Y"),
+    To = if_else(is.na(To), "Till Date",format(lubridate::as_date(To), "%b %Y"))
+    ) %>% 
+  setNames(c("Employer","Location","Role","From","To")) %>% 
+  knitr::kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
+```
+
 
 ## Career Highlights
 

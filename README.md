@@ -30,7 +30,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#vqplvphloa .gt_table {
+#aqviqrpukj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: 0;
@@ -55,7 +55,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-left-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_heading {
+#aqviqrpukj .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -67,7 +67,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-right-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_title {
+#aqviqrpukj .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-bottom-width: 0;
 }
 
-#vqplvphloa .gt_subtitle {
+#aqviqrpukj .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -87,13 +87,13 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-top-width: 0;
 }
 
-#vqplvphloa .gt_bottom_border {
+#aqviqrpukj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_col_headings {
+#aqviqrpukj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -108,7 +108,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-right-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_col_heading {
+#aqviqrpukj .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -128,7 +128,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   overflow-x: hidden;
 }
 
-#vqplvphloa .gt_column_spanner_outer {
+#aqviqrpukj .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -140,15 +140,15 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   padding-right: 4px;
 }
 
-#vqplvphloa .gt_column_spanner_outer:first-child {
+#aqviqrpukj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#vqplvphloa .gt_column_spanner_outer:last-child {
+#aqviqrpukj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#vqplvphloa .gt_column_spanner {
+#aqviqrpukj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -160,7 +160,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   width: 100%;
 }
 
-#vqplvphloa .gt_group_heading {
+#aqviqrpukj .gt_group_heading {
   padding: 8px;
   color: #FFFFFF;
   background-color: #4169E1;
@@ -182,7 +182,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   vertical-align: middle;
 }
 
-#vqplvphloa .gt_empty_group_heading {
+#aqviqrpukj .gt_empty_group_heading {
   padding: 0.5px;
   color: #FFFFFF;
   background-color: #4169E1;
@@ -197,15 +197,15 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   vertical-align: middle;
 }
 
-#vqplvphloa .gt_from_md > :first-child {
+#aqviqrpukj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#vqplvphloa .gt_from_md > :last-child {
+#aqviqrpukj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#vqplvphloa .gt_row {
+#aqviqrpukj .gt_row {
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 5px;
@@ -224,7 +224,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   overflow-x: hidden;
 }
 
-#vqplvphloa .gt_stub {
+#aqviqrpukj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -236,7 +236,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   padding-left: 12px;
 }
 
-#vqplvphloa .gt_summary_row {
+#aqviqrpukj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -246,7 +246,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   padding-right: 5px;
 }
 
-#vqplvphloa .gt_first_summary_row {
+#aqviqrpukj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -256,7 +256,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-top-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_grand_summary_row {
+#aqviqrpukj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -266,7 +266,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   padding-right: 5px;
 }
 
-#vqplvphloa .gt_first_grand_summary_row {
+#aqviqrpukj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -276,11 +276,11 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-top-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_striped {
+#aqviqrpukj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#vqplvphloa .gt_table_body {
+#aqviqrpukj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -289,7 +289,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-bottom-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_footnotes {
+#aqviqrpukj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -303,13 +303,13 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-right-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_footnote {
+#aqviqrpukj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#vqplvphloa .gt_sourcenotes {
+#aqviqrpukj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -323,47 +323,47 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
   border-right-color: #D3D3D3;
 }
 
-#vqplvphloa .gt_sourcenote {
+#aqviqrpukj .gt_sourcenote {
   font-size: 9px;
   padding: 4px;
 }
 
-#vqplvphloa .gt_left {
+#aqviqrpukj .gt_left {
   text-align: left;
 }
 
-#vqplvphloa .gt_center {
+#aqviqrpukj .gt_center {
   text-align: center;
 }
 
-#vqplvphloa .gt_right {
+#aqviqrpukj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#vqplvphloa .gt_font_normal {
+#aqviqrpukj .gt_font_normal {
   font-weight: normal;
 }
 
-#vqplvphloa .gt_font_bold {
+#aqviqrpukj .gt_font_bold {
   font-weight: bold;
 }
 
-#vqplvphloa .gt_font_italic {
+#aqviqrpukj .gt_font_italic {
   font-style: italic;
 }
 
-#vqplvphloa .gt_super {
+#aqviqrpukj .gt_super {
   font-size: 65%;
 }
 
-#vqplvphloa .gt_footnote_marks {
+#aqviqrpukj .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
 
-<div id="vqplvphloa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="aqviqrpukj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 
 <table class="gt_table">
 
@@ -661,6 +661,18 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
 
 <!--/html_preserve-->
 
+| Employer                                  | Location             | Role                       | From     | To        |
+| :---------------------------------------- | :------------------- | :------------------------- | :------- | :-------- |
+| ExxonMobil Services & Technology Pvt. Ltd | Bengaluru, Karnataka | Business Analytics Advisor | Oct 2020 | Till Date |
+| ExxonMobil Services & Technology Pvt. Ltd | Bengaluru, Karnataka | Data Analyst               | Jun 2018 | Sep 2020  |
+| Tata Consultancy Services Pvt. Ltd.       | Bengaluru, Karnataka | Data Analyst               | Jun 2016 | May 2018  |
+| Tata Consultancy Services Pvt. Ltd.       | Mumbai, Maharashtra  | Functional Consultant      | Jan 2014 | May 2016  |
+| Tata Consultancy Services Pvt. Ltd.       | Mumbai, Maharashtra  | Business Analyst           | Oct 2011 | Dec 2013  |
+| Tata Consultancy Services Pvt. Ltd.       | Mumbai, Maharashtra  | Associate Systems Engineer | Jan 2011 | Sep 2011  |
+| Tata Consultancy Services Pvt. Ltd.       | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
+
+Total 10 Years 3 Months Experience.
+
 ## Career Highlights
 
 <!--html_preserve-->
@@ -669,7 +681,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ewkgzaludm .gt_table {
+#enqqlahmdm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: 0;
@@ -694,7 +706,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-left-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_heading {
+#enqqlahmdm .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -706,7 +718,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_title {
+#enqqlahmdm .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -716,7 +728,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-width: 0;
 }
 
-#ewkgzaludm .gt_subtitle {
+#enqqlahmdm .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -726,13 +738,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-width: 0;
 }
 
-#ewkgzaludm .gt_bottom_border {
+#enqqlahmdm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_col_headings {
+#enqqlahmdm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -747,7 +759,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_col_heading {
+#enqqlahmdm .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -767,7 +779,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#ewkgzaludm .gt_column_spanner_outer {
+#enqqlahmdm .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -779,15 +791,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 4px;
 }
 
-#ewkgzaludm .gt_column_spanner_outer:first-child {
+#enqqlahmdm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ewkgzaludm .gt_column_spanner_outer:last-child {
+#enqqlahmdm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ewkgzaludm .gt_column_spanner {
+#enqqlahmdm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -799,7 +811,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   width: 100%;
 }
 
-#ewkgzaludm .gt_group_heading {
+#enqqlahmdm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -821,7 +833,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#ewkgzaludm .gt_empty_group_heading {
+#enqqlahmdm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -836,15 +848,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#ewkgzaludm .gt_from_md > :first-child {
+#enqqlahmdm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ewkgzaludm .gt_from_md > :last-child {
+#enqqlahmdm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ewkgzaludm .gt_row {
+#enqqlahmdm .gt_row {
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 5px;
@@ -863,7 +875,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#ewkgzaludm .gt_stub {
+#enqqlahmdm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -875,7 +887,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-left: 12px;
 }
 
-#ewkgzaludm .gt_summary_row {
+#enqqlahmdm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -885,7 +897,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#ewkgzaludm .gt_first_summary_row {
+#enqqlahmdm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -895,7 +907,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_grand_summary_row {
+#enqqlahmdm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -905,7 +917,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#ewkgzaludm .gt_first_grand_summary_row {
+#enqqlahmdm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -915,11 +927,11 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_striped {
+#enqqlahmdm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ewkgzaludm .gt_table_body {
+#enqqlahmdm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -928,7 +940,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_footnotes {
+#enqqlahmdm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -942,13 +954,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_footnote {
+#enqqlahmdm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ewkgzaludm .gt_sourcenotes {
+#enqqlahmdm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -962,47 +974,47 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#ewkgzaludm .gt_sourcenote {
+#enqqlahmdm .gt_sourcenote {
   font-size: 9px;
   padding: 4px;
 }
 
-#ewkgzaludm .gt_left {
+#enqqlahmdm .gt_left {
   text-align: left;
 }
 
-#ewkgzaludm .gt_center {
+#enqqlahmdm .gt_center {
   text-align: center;
 }
 
-#ewkgzaludm .gt_right {
+#enqqlahmdm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ewkgzaludm .gt_font_normal {
+#enqqlahmdm .gt_font_normal {
   font-weight: normal;
 }
 
-#ewkgzaludm .gt_font_bold {
+#enqqlahmdm .gt_font_bold {
   font-weight: bold;
 }
 
-#ewkgzaludm .gt_font_italic {
+#enqqlahmdm .gt_font_italic {
   font-style: italic;
 }
 
-#ewkgzaludm .gt_super {
+#enqqlahmdm .gt_super {
   font-size: 65%;
 }
 
-#ewkgzaludm .gt_footnote_marks {
+#enqqlahmdm .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
 
-<div id="ewkgzaludm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="enqqlahmdm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 
 <table class="gt_table">
 
@@ -1251,7 +1263,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xggjxmeiou .gt_table {
+#lqsrpgsaeo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: 0;
@@ -1276,7 +1288,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-left-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_heading {
+#lqsrpgsaeo .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1288,7 +1300,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_title {
+#lqsrpgsaeo .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1298,7 +1310,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-width: 0;
 }
 
-#xggjxmeiou .gt_subtitle {
+#lqsrpgsaeo .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1308,13 +1320,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-width: 0;
 }
 
-#xggjxmeiou .gt_bottom_border {
+#lqsrpgsaeo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_col_headings {
+#lqsrpgsaeo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1329,7 +1341,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_col_heading {
+#lqsrpgsaeo .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1349,7 +1361,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#xggjxmeiou .gt_column_spanner_outer {
+#lqsrpgsaeo .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1361,15 +1373,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 4px;
 }
 
-#xggjxmeiou .gt_column_spanner_outer:first-child {
+#lqsrpgsaeo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xggjxmeiou .gt_column_spanner_outer:last-child {
+#lqsrpgsaeo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xggjxmeiou .gt_column_spanner {
+#lqsrpgsaeo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1381,7 +1393,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   width: 100%;
 }
 
-#xggjxmeiou .gt_group_heading {
+#lqsrpgsaeo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1403,7 +1415,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#xggjxmeiou .gt_empty_group_heading {
+#lqsrpgsaeo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1418,15 +1430,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#xggjxmeiou .gt_from_md > :first-child {
+#lqsrpgsaeo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xggjxmeiou .gt_from_md > :last-child {
+#lqsrpgsaeo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xggjxmeiou .gt_row {
+#lqsrpgsaeo .gt_row {
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 5px;
@@ -1445,7 +1457,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#xggjxmeiou .gt_stub {
+#lqsrpgsaeo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1457,7 +1469,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-left: 12px;
 }
 
-#xggjxmeiou .gt_summary_row {
+#lqsrpgsaeo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1467,7 +1479,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#xggjxmeiou .gt_first_summary_row {
+#lqsrpgsaeo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1477,7 +1489,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_grand_summary_row {
+#lqsrpgsaeo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1487,7 +1499,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#xggjxmeiou .gt_first_grand_summary_row {
+#lqsrpgsaeo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1497,11 +1509,11 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_striped {
+#lqsrpgsaeo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xggjxmeiou .gt_table_body {
+#lqsrpgsaeo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1510,7 +1522,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_footnotes {
+#lqsrpgsaeo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1524,13 +1536,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_footnote {
+#lqsrpgsaeo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xggjxmeiou .gt_sourcenotes {
+#lqsrpgsaeo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1544,47 +1556,47 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#xggjxmeiou .gt_sourcenote {
+#lqsrpgsaeo .gt_sourcenote {
   font-size: 9px;
   padding: 4px;
 }
 
-#xggjxmeiou .gt_left {
+#lqsrpgsaeo .gt_left {
   text-align: left;
 }
 
-#xggjxmeiou .gt_center {
+#lqsrpgsaeo .gt_center {
   text-align: center;
 }
 
-#xggjxmeiou .gt_right {
+#lqsrpgsaeo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xggjxmeiou .gt_font_normal {
+#lqsrpgsaeo .gt_font_normal {
   font-weight: normal;
 }
 
-#xggjxmeiou .gt_font_bold {
+#lqsrpgsaeo .gt_font_bold {
   font-weight: bold;
 }
 
-#xggjxmeiou .gt_font_italic {
+#lqsrpgsaeo .gt_font_italic {
   font-style: italic;
 }
 
-#xggjxmeiou .gt_super {
+#lqsrpgsaeo .gt_super {
   font-size: 65%;
 }
 
-#xggjxmeiou .gt_footnote_marks {
+#lqsrpgsaeo .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
 
-<div id="xggjxmeiou" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lqsrpgsaeo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 
 <table class="gt_table">
 
@@ -1834,7 +1846,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#visezxvxyu .gt_table {
+#hpkqihpxhj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: 0;
@@ -1859,7 +1871,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-left-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_heading {
+#hpkqihpxhj .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1871,7 +1883,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_title {
+#hpkqihpxhj .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1881,7 +1893,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-width: 0;
 }
 
-#visezxvxyu .gt_subtitle {
+#hpkqihpxhj .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1891,13 +1903,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-width: 0;
 }
 
-#visezxvxyu .gt_bottom_border {
+#hpkqihpxhj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_col_headings {
+#hpkqihpxhj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1912,7 +1924,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_col_heading {
+#hpkqihpxhj .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1932,7 +1944,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#visezxvxyu .gt_column_spanner_outer {
+#hpkqihpxhj .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1944,15 +1956,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 4px;
 }
 
-#visezxvxyu .gt_column_spanner_outer:first-child {
+#hpkqihpxhj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#visezxvxyu .gt_column_spanner_outer:last-child {
+#hpkqihpxhj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#visezxvxyu .gt_column_spanner {
+#hpkqihpxhj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1964,7 +1976,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   width: 100%;
 }
 
-#visezxvxyu .gt_group_heading {
+#hpkqihpxhj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1986,7 +1998,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#visezxvxyu .gt_empty_group_heading {
+#hpkqihpxhj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2001,15 +2013,15 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   vertical-align: middle;
 }
 
-#visezxvxyu .gt_from_md > :first-child {
+#hpkqihpxhj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#visezxvxyu .gt_from_md > :last-child {
+#hpkqihpxhj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#visezxvxyu .gt_row {
+#hpkqihpxhj .gt_row {
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 5px;
@@ -2028,7 +2040,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   overflow-x: hidden;
 }
 
-#visezxvxyu .gt_stub {
+#hpkqihpxhj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2040,7 +2052,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-left: 12px;
 }
 
-#visezxvxyu .gt_summary_row {
+#hpkqihpxhj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2050,7 +2062,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#visezxvxyu .gt_first_summary_row {
+#hpkqihpxhj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2060,7 +2072,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_grand_summary_row {
+#hpkqihpxhj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2070,7 +2082,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   padding-right: 5px;
 }
 
-#visezxvxyu .gt_first_grand_summary_row {
+#hpkqihpxhj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2080,11 +2092,11 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-top-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_striped {
+#hpkqihpxhj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#visezxvxyu .gt_table_body {
+#hpkqihpxhj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2093,7 +2105,7 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-bottom-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_footnotes {
+#hpkqihpxhj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2107,13 +2119,13 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_footnote {
+#hpkqihpxhj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#visezxvxyu .gt_sourcenotes {
+#hpkqihpxhj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2127,47 +2139,47 @@ Data Source: Vishal’s MyCV GSheet. Built with {gt}
   border-right-color: #D3D3D3;
 }
 
-#visezxvxyu .gt_sourcenote {
+#hpkqihpxhj .gt_sourcenote {
   font-size: 9px;
   padding: 4px;
 }
 
-#visezxvxyu .gt_left {
+#hpkqihpxhj .gt_left {
   text-align: left;
 }
 
-#visezxvxyu .gt_center {
+#hpkqihpxhj .gt_center {
   text-align: center;
 }
 
-#visezxvxyu .gt_right {
+#hpkqihpxhj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#visezxvxyu .gt_font_normal {
+#hpkqihpxhj .gt_font_normal {
   font-weight: normal;
 }
 
-#visezxvxyu .gt_font_bold {
+#hpkqihpxhj .gt_font_bold {
   font-weight: bold;
 }
 
-#visezxvxyu .gt_font_italic {
+#hpkqihpxhj .gt_font_italic {
   font-style: italic;
 }
 
-#visezxvxyu .gt_super {
+#hpkqihpxhj .gt_super {
   font-size: 65%;
 }
 
-#visezxvxyu .gt_footnote_marks {
+#hpkqihpxhj .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
 
-<div id="visezxvxyu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="hpkqihpxhj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 
 <table class="gt_table">
 
