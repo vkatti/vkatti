@@ -11,7 +11,8 @@ library(stringr)
 library(lubridate)
 library(ggplot2)
 library(googlesheets4)
-library(gt)
+library(knitr)
+#library(gt)
 ```
 
 
@@ -22,7 +23,7 @@ gs4_auth(email = "katti.vishal@gmail.com")
 skills         <- read_sheet(ss = gsheet, sheet = "Skills")
 tools          <- read_sheet(ss = gsheet, sheet = "Tools")
 highlights     <- read_sheet(ss = gsheet, sheet = "Highlights")
-certifications <- read_sheet(ss = gsheet, sheet = "Certifications")
+#certifications <- read_sheet(ss = gsheet, sheet = "Certifications")
 work           <- read_sheet(ss = gsheet, sheet = "Work")
 education      <- read_sheet(ss = gsheet, sheet = "Education")
 
@@ -42,9 +43,6 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 ## Work Experience
 
-
-
-
 ```{r work}
 exp_months <- as.period(Sys.Date() - as_date("2010-09-28")) %/% months(1)
 
@@ -52,37 +50,13 @@ exp_mon <- exp_months %% 12
 exp_yrs <- exp_months %/% 12
 
 work %>% 
-  mutate(
-    From = lubridate::as_date(From),
-    To = lubridate::as_date(To)
-    ) %>% 
-  group_by(Employer) %>% 
-gt() %>%
-  tab_header(title = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience.")) %>% 
-  tab_source_note(md("Data Source: Vishal's MyCV GSheet. Built with {gt}")) %>%
-  cols_label(Loc = "Location", Position = "Role",From = "From", To = "To") %>% 
-  tab_style(style = cell_text(weight = "bold"), locations = cells_body(rows = 1:2)) %>% 
-  tab_style(style = cell_text(color = "gray"), locations = cells_body(rows = 3:7)) %>% 
-  fmt(columns = 4:5, fns = function(x) ifelse(!is.na(x), format(x, '%b %Y'),"Till Date")) %>% 
-  tab_options(table.font.size = 12, 
-              column_labels.font.weight = "bold", 
-              data_row.padding = px(1), 
-              table.align = "left",
-              source_notes.font.size = 9,
-              row_group.background.color = "#4169E1",
-              row_group.font.size = 14,
-              row_group.font.weight = "bold"
-              )
-```
-
-```{r}
-work %>% 
+  replace_na(list(Employer = "",Loc = "")) %>% 
   mutate(
     From = format(lubridate::as_date(From),"%b %Y"),
     To = if_else(is.na(To), "Till Date",format(lubridate::as_date(To), "%b %Y"))
     ) %>% 
   setNames(c("Employer","Location","Role","From","To")) %>% 
-  knitr::kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
+  kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
 ```
 
 
@@ -94,26 +68,16 @@ highlights %>%
          End = format(End, "%b %Y"),
          When = if_else(is.na(End), Start, paste0(Start, "-", End))) %>% 
   select(-c(Start, End)) %>% 
-  gt() %>% 
-  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
-  tab_options(table.font.size = 12, 
-              column_labels.font.weight = "bold", 
-              data_row.padding = px(1), 
-              table.align = "left",
-              source_notes.font.size = 9)
+  kable()
 ```
 
 ## Skills
 
 ```{r skills}
-gt(skills) %>% 
-  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
-  tab_options(table.font.size = 12, 
-              column_labels.font.weight = "bold", 
-              data_row.padding = px(1), 
-              table.align = "left",
-              source_notes.font.size = 9)
+kable(skills)
 ```
+
+## Tools
 
 ```{r tools}
 tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) %>% 
@@ -138,24 +102,8 @@ ggplot() +
 ## Education
 
 ```{r education}
-gt(education) %>% 
-  tab_source_note("Data Source: Vishal's MyCV GSheet. Built with {gt}") %>% 
-  fmt(columns = vars(From, To), fns = function(x) format(x, "%b %Y")) %>% 
-  tab_options(table.font.size = 12, 
-              column_labels.font.weight = "bold", 
-              data_row.padding = px(1), 
-              table.align = "left",
-              source_notes.font.size = 9)
+education %>% 
+  mutate(From = format(From, "%b %Y"),
+         To = format(To, "%b %Y")) %>% 
+  kable()
 ```
-
-
-
-
-
-
-
-
-
-
-
-
