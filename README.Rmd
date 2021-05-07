@@ -80,7 +80,7 @@ kable(skills)
 ## Tools
 
 ```{r tools}
-tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) %>% 
+tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) %>% 
 ggplot() +
   theme_minimal() +
   geom_col(aes(x = Score, y = Tool, fill = Score)) +

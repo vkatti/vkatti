@@ -34,12 +34,13 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
 |                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
-Total 10 Years 3 Months Experience.
+Total 10 Years 7 Months Experience.
 
 ## Career Highlights
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
+| Designed and implemented critical in-house solution that replaces third-party vendor solution thereby saving \~50K USD in annual subcription cost                   | ExxonMobil, Bengaluru           | Jan 2021          |
 | Awarded ‘Star of the Quarter’ for 2019 Q2 for designing the Report Automation Framework for OE-SSHE-DAG                                                             | ExxonMobil, Bengaluru           | Sep 2019          |
 | Automated a report for SOC project using Excel VBA for Alert Analysis with Effort reduction from 8 hours to 5 minutes!!                                             | TCS, Bengaluru                  | Jul 2016          |
 | Designed a critical solution which enabled TCS Talent Acquisition Group to roll out 66% more Offer Letters to TCS Applicants; thereby reducing Cost of Hire by 35%. | TCS, Mumbai                     | Aug 2015          |
