@@ -88,12 +88,12 @@ kable(skills)
 ## Tools
 
 ```{r tools}
-tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) 
+tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
 g <- ggplot(tools) +
   theme_minimal() +
   geom_col(aes(x = Score, y = Tool, fill = Score)) +
-  geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white") +
-  geom_text(aes(x = Score-0.25, y = Tool, label = paste0(Score,"/10")), hjust = 1, color = "white") +
+  geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white", size = 3) +
+  geom_text(aes(x = Score-0.25, y = Tool, label = paste0(Score,"/10")), hjust = 1, color = "white", size = 3) +
   expand_limits(x = c(0, 10), y = c(0,0)) +
   scale_fill_gradient2() +
   ggtitle("Tool Competency Levels", 
@@ -108,7 +108,7 @@ g <- ggplot(tools) +
         plot.background = element_rect(fill = "transparent",colour = NA)
         )
 
-ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, width = 5, height = 4)
+ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, width = 5, height = 3)
 ```
 
 ![](Images/tools.png)
