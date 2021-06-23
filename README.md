@@ -41,7 +41,7 @@ Total 10 Years 8 Months Experience.
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
-| Added new conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/166>)                             | Open Source COntribution        | Mar 2021-Apr 2021 |
+| Added new conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/166>)                             | Open Source Contribution        | Mar 2021-Apr 2021 |
 | Designed and implemented critical in-house solution that replaces third-party vendor solution thereby saving \~50K USD in annual subcription cost                   | ExxonMobil, Bengaluru           | Jan 2021          |
 | Awarded ‘Star of the Quarter’ for 2019 Q2 for designing the Report Automation Framework for OE-SSHE-DAG                                                             | ExxonMobil, Bengaluru           | Sep 2019          |
 | Automated a report for SOC project using Excel VBA for Alert Analysis with Effort reduction from 8 hours to 5 minutes!!                                             | TCS, Bengaluru                  | Jul 2016          |
