@@ -34,7 +34,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
 |                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
-Total 10 Years 7 Months Experience.
+Total 10 Years 8 Months Experience.
 
 ## Career Highlights
 
