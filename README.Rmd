@@ -15,7 +15,6 @@ library(knitr)
 #library(gt)
 ```
 
-
 ```{r gsheet, message=FALSE, warning=FALSE, comment=""}
 gsheet <- "1W9duSTZ9hAhlV3yxFeM7qqIFc8Gca2utVe4WxMg0_1A"
 gs4_auth(email = "katti.vishal@gmail.com")
@@ -29,17 +28,27 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 ```
 
-### Hi there 👋
+### Hi there :wave:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vishal_katti)](https://twitter.com/vishal_katti)
+[![Twitter
+Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vishal_katti)](https://twitter.com/vishal_katti)
 
-- 🔭 I’m currently working on building my personal Github profile. My work org. started using Github a few months ago for work-related collaboration, where I have moved all my R/Python automation scripts online. I have also developed a few internal R packages which are extensively used within my team.
-- 🌱 I’m currently learning Statistics with R from Coursera offered by Duke University. I am also learning to manage my productivity in this pandemic-induced work-from-home period.
-- 👯 I’m looking to collaborate on anything R related outside of my work network.
-- 🤔 I’m looking for career guidance.
-- 💬 Ask me about how R can help automate your Excel reports.
-- 📫 How to reach me: twitter
-- ⚡ Fun fact: The data in this .md file comes from Google Sheets and is created with R and 💖
+-   :telescope: I'm currently working on building my personal Github
+    profile. My work org. started using Github a few months ago for
+    work-related collaboration, where I have moved all my R/Python
+    automation scripts online. I have also developed a few internal R
+    packages which are extensively used within my team.
+-   :seedling: I'm currently learning Statistics with R from Coursera
+    offered by Duke University. I am also learning to manage my
+    productivity in this pandemic-induced work-from-home period.
+-   :dancers: I'm looking to collaborate on anything R related outside
+    of my work network.
+-   :thinking: I'm looking for career guidance.
+-   :speech_balloon: Ask me about how R can help automate your Excel
+    reports.
+-   :mailbox: How to reach me: twitter
+-   :zap: Fun fact: The data in this .md file comes from Google Sheets
+    and is created with R and :sparkling_heart:
 
 ## Work Experience
 
@@ -58,7 +67,6 @@ work %>%
   setNames(c("Employer","Location","Role","From","To")) %>% 
   kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
 ```
-
 
 ## Career Highlights
 
@@ -80,8 +88,8 @@ kable(skills)
 ## Tools
 
 ```{r tools}
-tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) %>% 
-ggplot() +
+tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word", "MS Powerpoint", "MS Excel", "VBA", "R"))) 
+g <- ggplot(tools) +
   theme_minimal() +
   geom_col(aes(x = Score, y = Tool, fill = Score)) +
   geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white") +
@@ -99,7 +107,11 @@ ggplot() +
         panel.background = element_rect(fill = "transparent",colour = NA),
         plot.background = element_rect(fill = "transparent",colour = NA)
         )
+
+ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, width = 5, height = 4)
 ```
+
+![](Images/tools.png)
 
 ## Education
 
