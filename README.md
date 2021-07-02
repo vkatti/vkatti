@@ -19,7 +19,8 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 -   :thinking: I’m looking for career guidance.
 -   :speech\_balloon: Ask me about how R can help automate your Excel
     reports.
--   :mailbox: How to reach me: twitter
+-   :mailbox: How to reach me: twitter *@vishal\_katti* or email
+    *<katti.vishal@gmail.com>*
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
     and is created with R and :sparkling\_heart:
 
@@ -35,7 +36,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
 |                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
-Total 10 Years 8 Months Experience.
+Total 10 Years 9 Months Experience.
 
 ## Career Highlights
 
