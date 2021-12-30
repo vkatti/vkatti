@@ -9,9 +9,9 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 -   :telescope: I’m currently building my online profile. Check out my
     [distill website and blog hosted on
     Netlify](https://vishalkatti.com "https://vishalkatti.com").
--   :seedling: I’m currently learning Statistics with R from Coursera
-    offered by Duke University. I am also learning to manage my
-    productivity in this pandemic-induced WFH.
+-   :seedling: I’m currently learning Python for data analysis. I am
+    also learning to manage my productivity in this pandemic-induced
+    WFH.
 -   :dancers: I’m looking to collaborate on anything R related outside
     of my work network.
 -   :thinking: I’m looking for full-time remote job at an org. that uses
@@ -28,7 +28,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
-| Mindtree Ltd.                             | Bengaluru, Karnataka | Technical Architect        | Sep 2021 | Till Date |
+| Mindtree Ltd.                             | Bengaluru, Karnataka | Business Data Analyst      | Sep 2021 | Till Date |
 | ExxonMobil Services & Technology Pvt. Ltd | Bengaluru, Karnataka | Business Analytics Advisor | Oct 2020 | Aug 2021  |
 |                                           |                      | Data Analyst               | Jun 2018 | Sep 2020  |
 | Tata Consultancy Services Pvt. Ltd.       | Bengaluru, Karnataka | Data Analyst               | Jun 2016 | May 2018  |
@@ -37,7 +37,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
 |                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
-Total 11 Years 0 Months Experience.
+Total 11 Years 3 Months Experience.
 
 ## Career Highlights
 
