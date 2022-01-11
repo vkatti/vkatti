@@ -62,14 +62,15 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 ## :briefcase: Work Experience
 
-```{r work}
+```{r work-exp}
 exp_months <- as.period(Sys.Date() - as_date("2010-09-27")) %/% months(1)
-
 exp_mon <- exp_months %% 12
 exp_yrs <- exp_months %/% 12
+```
 
-print(glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
+**Total `r exp_yrs` Years `r exp_mon` Months Experience**
 
+```{r work}
 work %>% 
   replace_na(list(Employer = "",Loc = "")) %>% 
   mutate(

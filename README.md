@@ -34,7 +34,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 ## :briefcase: Work Experience
 
-    ##  Total 11 Years 3 Months Experience.
+**Total 11 Years 3 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
