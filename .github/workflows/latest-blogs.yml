@@ -1,7 +1,10 @@
 name: Latest blog post workflow
 on:
+  push:
+      branches:
+        - main
   schedule: # Run workflow automatically
-    - cron: "45 * * * *" # Runs every hour, on the hour
+    - cron: "45 */24 * * *" # Runs at 45th minute every 24th hour
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
