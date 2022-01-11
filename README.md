@@ -24,6 +24,11 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
     and is created with R and :sparkling\_heart:
 
+## Latest Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Work Experience
 
 | Employer                                  | Location             | Role                       | From     | To        |
