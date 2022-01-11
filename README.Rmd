@@ -68,6 +68,8 @@ exp_months <- as.period(Sys.Date() - as_date("2010-09-27")) %/% months(1)
 exp_mon <- exp_months %% 12
 exp_yrs <- exp_months %/% 12
 
+print(glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
+
 work %>% 
   replace_na(list(Employer = "",Loc = "")) %>% 
   mutate(
@@ -75,7 +77,7 @@ work %>%
     To = if_else(is.na(To), "Till Date",format(lubridate::as_date(To), "%b %Y"))
     ) %>% 
   setNames(c("Employer","Location","Role","From","To")) %>% 
-  kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
+  kable()
 ```
 
 ## :tada: Career Highlights

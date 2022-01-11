@@ -30,13 +30,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
-- [Programming with R {dplyr} - As I Understand It!!](https://vishalkatti.com/posts/2021-07-17-programmingwithdplyr)
 <!-- BLOG-POST-LIST:END -->
 
 ## :briefcase: Work Experience
+
+    ##  Total 11 Years 3 Months Experience.
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -48,8 +46,6 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 |                                           |                      | Business Analyst           | Oct 2011 | Dec 2013  |
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
 |                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
-
-Total 11 Years 3 Months Experience.
 
 ## :tada: Career Highlights
 
