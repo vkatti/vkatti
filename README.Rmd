@@ -30,8 +30,11 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 ### Hi there :wave:
 
+[![Visits
+Badge](https://badges.pufler.dev/visits/vikatti/vikatti)](https://vishalkatti.com)
+
 [![Twitter
-Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vishal_katti)](https://twitter.com/vishal_katti)
+Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
 -   :telescope: I'm currently building my online profile. Check out my
     [distill website and blog hosted on
@@ -51,11 +54,13 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
     and is created with R and :sparkling_heart:
 
-## Latest Blogs
+## :memo: Latest Blogs
+
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
-## Work Experience
+## :briefcase: Work Experience
 
 ```{r work}
 exp_months <- as.period(Sys.Date() - as_date("2010-09-27")) %/% months(1)
@@ -73,7 +78,7 @@ work %>%
   kable(caption = glue::glue(" Total {exp_yrs} Years {exp_mon} Months Experience."))
 ```
 
-## Career Highlights
+## :tada: Career Highlights
 
 ```{r highlights}
 highlights %>% 
@@ -84,13 +89,13 @@ highlights %>%
   kable()
 ```
 
-## Skills
+## :zap: Skills
 
 ```{r skills}
 kable(skills)
 ```
 
-## Tools
+## :wrench: Tools
 
 ```{r tools}
 tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
@@ -120,7 +125,7 @@ ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, w
 
 ![](Images/tools.png)
 
-## Education
+## :books: Education
 
 ```{r education}
 education %>% 

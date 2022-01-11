@@ -3,8 +3,11 @@ Vishal Katti
 
 ### Hi there :wave:
 
+[![Visits
+Badge](https://badges.pufler.dev/visits/vikatti/vikatti)](https://vishalkatti.com)
+
 [![Twitter
-Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vishal_katti)](https://twitter.com/vishal_katti)
+Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
 -   :telescope: I’m currently building my online profile. Check out my
     [distill website and blog hosted on
@@ -24,12 +27,12 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
     and is created with R and :sparkling\_heart:
 
-## Latest Blogs
+## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Work Experience
+## :briefcase: Work Experience
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -44,7 +47,7 @@ Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor
 
 Total 11 Years 3 Months Experience.
 
-## Career Highlights
+## :tada: Career Highlights
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
@@ -61,7 +64,7 @@ Total 11 Years 3 Months Experience.
 | Initiated and implemented Trainee Management application, which helps manage around 45K candidates annually.                                                        | TCS, Mumbai                     | Jan 2011-Jul 2011 |
 | Self-learnt, developed and deployed RMA Management stand-alone application (in MS Visual Basic) as part of 8 weeks internship during BTech Engineering.             | DLink India Pvt. Ltd, Verna-Goa | May 2009-Aug 2009 |
 
-## Skills
+## :zap: Skills
 
 | Skills                                                                | Tools                                                                |
 |:----------------------------------------------------------------------|:---------------------------------------------------------------------|
@@ -78,11 +81,11 @@ Total 11 Years 3 Months Experience.
 | Automation/Manual Testing                                             | TCS Selenium X, TCS MasterCraft ALM                                  |
 | Test Planning, Test Cases, User Acceptance Testing, Defect Management | TCS MasterCraft ALM, MS Excel, Rally for Agile                       |
 
-## Tools
+## :wrench: Tools
 
 ![](Images/tools.png)
 
-## Education
+## :books: Education
 
 | Level                           | Specialization                        | Institute                                          | Location      | From     | To       |
 |:--------------------------------|:--------------------------------------|:---------------------------------------------------|:--------------|:---------|:---------|
