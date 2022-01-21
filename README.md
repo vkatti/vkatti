@@ -51,7 +51,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
-| Extended conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/311>)                              | Open Source Contribution        | Jan 2022-Jan 2022 |
+| Extended conditional formatting feature and fixed Issue \#179 in R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/311>)        | Open Source Contribution        | Jan 2022          |
 | Received customer appreciation for using Python for data cleaning and consolidation, which would otherwise take 2 weeks to do manually.                             | Mindtree Ltd.                   | Oct 2021          |
 | Added new conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/166>)                             | Open Source Contribution        | Mar 2021-Apr 2021 |
 | Designed and implemented critical in-house solution that replaces third-party vendor solution thereby saving \~50K USD in annual subcription cost                   | ExxonMobil, Bengaluru           | Jan 2021          |
