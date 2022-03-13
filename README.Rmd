@@ -101,7 +101,7 @@ kable(skills)
 ## :wrench: Tools
 
 ```{r tools}
-tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "SQL", "MS Visio", "MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
+tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control", "Python", "MS Visio","SQL", "MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
 g <- ggplot(tools) +
   theme_minimal() +
   geom_col(aes(x = Score, y = Tool, fill = Score)) +

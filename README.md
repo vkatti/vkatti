@@ -20,25 +20,21 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 -   :thinking: I’m looking for full-time remote job at an org. that uses
     R extensively which will allow me to learn and possibly teach
     others.
--   :speech\_balloon: Ask me about how R can help automate your Excel
+-   :speech_balloon: Ask me about how R can help automate your Excel
     and/or PowerPoint reports.
--   :mailbox: How to reach me: twitter *@vishal\_katti* or email
+-   :mailbox: How to reach me: twitter *@vishal_katti* or email
     *katti.vishal@gmail.com*
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
-    and is created with R and :sparkling\_heart:
+    and is created with R and :sparkling_heart:
 
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
-- [Programming with R {dplyr} - As I Understand It!!](https://vishalkatti.com/posts/2021-07-17-programmingwithdplyr)
 <!-- BLOG-POST-LIST:END -->
 
 ## :briefcase: Work Experience
 
-**Total 11 Years 3 Months Experience**
+**Total 11 Years 5 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -73,11 +69,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Skills                                                                | Tools                                                                |
 |:----------------------------------------------------------------------|:---------------------------------------------------------------------|
-| Web Apps, Dashboards                                                  | R, Shiny                                                             |
+| Web Apps, Dashboards                                                  | R, Python, MS Excel, PowerBI                                         |
 | Data Cleansing, Feature Engineering, Data Modelling, Visualizations   | R, Python, MS Excel, PowerBI                                         |
-| Data Analytics                                                        | R, Python, MS Excel, SAP Business Objects, MS PowerBI                |
+| Data Analytics                                                        | R, Python, MS Excel, PowerBI                                         |
 | VBA Macros, Userforms, Excel Add-ins                                  | MS Excel, Word, Outlook, PowerPoint                                  |
-| Report Design                                                         | R, MS Excel, Word, PowerPoint, SAP Business Objects                  |
+| Report Design                                                         | R, MS Excel, SQL, Word, PowerPoint                                   |
 | SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS) |
 | Requirement Documentation and Change Request Management               | MS Word, Application LifeCycle Manager (ALM), Rally for Agile        |
 | Mockups, UI and Usability Design                                      | Balsamiq Mockups for Desktop, MS Visio, MS PowerPoint                |
