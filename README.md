@@ -9,19 +9,19 @@ Badge](https://badges.pufler.dev/visits/vikatti/vikatti)](https://vishalkatti.co
 [![Twitter
 Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
--   :telescope: I’m currently building my online profile. Check out my
-    [distill website and blog hosted on
+-   :telescope: Check out my [distill website and blog hosted on
     Netlify](https://vishalkatti.com "https://vishalkatti.com").
--   :seedling: I’m currently learning Python for data analysis. I am
-    also learning to manage my productivity in this pandemic-induced
-    WFH.
--   :dancers: I’m looking to collaborate on anything R related outside
+-   :seedling: I work a 9-5 job and provide freelance services in my
+    spare time. I’m currently learning Python for data analysis.
+-   :dancers: I have made a few open-source contributions to {openxlsx}
+    R package. I’m looking to collaborate on anything R related outside
     of my work network.
 -   :thinking: I’m looking for full-time remote job at an org. that uses
-    R extensively which will allow me to learn and possibly teach
-    others.
--   :speech_balloon: Ask me about how R can help automate your Excel
-    and/or PowerPoint reports.
+    R extensively which will allow me to learn further and possibly
+    teach others.
+-   :speech_balloon: Ask me about how to automate your Excel and/or
+    PowerPoint reports and possibly convert them to automated
+    dashboards.
 -   :mailbox: How to reach me: twitter *@vishal_katti* or email
     *katti.vishal@gmail.com*
 -   :zap: Fun fact: The data in this .md file comes from Google Sheets
@@ -30,16 +30,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive Series](https://vishalkatti.com/posts/2022-02-18-deepdiveintro)
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
 <!-- BLOG-POST-LIST:END -->
 
 ## :briefcase: Work Experience
 
-**Total 11 Years 5 Months Experience**
+**Total 11 Years 6 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -56,6 +51,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
+| Received “Outstanding Performer” Award 2 Quarters in a row                                                                                                          | Mindtree Ltd.                   | Oct 2021-Apr 2022 |
 | Extended conditional formatting feature and fixed Issue \#179 in R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/311>)        | Open Source Contribution        | Jan 2022          |
 | Received customer appreciation for using Python for data cleaning and consolidation, which would otherwise take 2 weeks to do manually.                             | Mindtree Ltd.                   | Oct 2021          |
 | Added new conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/166>)                             | Open Source Contribution        | Mar 2021-Apr 2021 |
@@ -74,14 +70,14 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Skills                                                                | Tools                                                                |
 |:----------------------------------------------------------------------|:---------------------------------------------------------------------|
-| Web Apps, Dashboards                                                  | R, Python, MS Excel, PowerBI                                         |
 | Data Cleansing, Feature Engineering, Data Modelling, Visualizations   | R, Python, MS Excel, PowerBI                                         |
+| Web Apps, Dashboards                                                  | R Shiny, Python, MS Excel, PowerBI                                   |
+| SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS) |
 | Data Analytics                                                        | R, Python, MS Excel, PowerBI                                         |
 | VBA Macros, Userforms, Excel Add-ins                                  | MS Excel, Word, Outlook, PowerPoint                                  |
 | Report Design                                                         | R, MS Excel, SQL, Word, PowerPoint                                   |
-| SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS) |
 | Requirement Documentation and Change Request Management               | MS Word, Application LifeCycle Manager (ALM), Rally for Agile        |
-| Mockups, UI and Usability Design                                      | Balsamiq Mockups for Desktop, MS Visio, MS PowerPoint                |
+| Mockups, UI and Usability Design                                      | MS PowerPoint, Balsamiq Mockups for Desktop, MS Visio                |
 | Project Management                                                    | \-                                                                   |
 | Process Improvement                                                   | PDCA, Lean Six Sigma, VBA Automation                                 |
 | Automation/Manual Testing                                             | TCS Selenium X, TCS MasterCraft ALM                                  |
