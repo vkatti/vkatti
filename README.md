@@ -30,7 +30,6 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive Series](https://vishalkatti.com/posts/2022-02-18-deepdiveintro)
 - [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
 - [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
 - [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
