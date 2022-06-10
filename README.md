@@ -12,10 +12,10 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 -   :telescope: Check out my [distill website and blog hosted on
     Netlify](https://vishalkatti.com "https://vishalkatti.com").
 -   :seedling: I work a 9-5 job and provide freelance services in my
-    spare time. I’m currently learning Python for data analysis.
--   :dancers: I have made a few open-source contributions to {openxlsx}
-    R package. I’m looking to collaborate on anything R related outside
-    of my work network.
+    spare time.
+-   :dancers: I have contributed to the open-source project,
+    specifically to {openxlsx} R package. I’m looking to collaborate on
+    anything R related outside of my work network.
 -   :thinking: I’m looking for full-time remote job at an org. that uses
     R extensively which will allow me to learn further and possibly
     teach others.
@@ -30,16 +30,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
-- [Programming with R {dplyr} - As I Understand It!!](https://vishalkatti.com/posts/2021-07-17-programmingwithdplyr)
 <!-- BLOG-POST-LIST:END -->
 
 ## :briefcase: Work Experience
 
-**Total 11 Years 7 Months Experience**
+**Total 11 Years 8 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -56,7 +51,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
-| Received “Outstanding Performer” Award 2 Quarters in a row                                                                                                          | Mindtree Ltd.                   | Oct 2021-Apr 2022 |
+| Received 7/7 performance rating for 3 Quarters in a row                                                                                                             | Mindtree Ltd.                   | Oct 2021-Apr 2022 |
 | Extended conditional formatting feature and fixed Issue \#179 in R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/311>)        | Open Source Contribution        | Jan 2022          |
 | Received customer appreciation for using Python for data cleaning and consolidation, which would otherwise take 2 weeks to do manually.                             | Mindtree Ltd.                   | Oct 2021          |
 | Added new conditional formatting feature to R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/166>)                             | Open Source Contribution        | Mar 2021-Apr 2021 |

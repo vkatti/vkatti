@@ -35,8 +35,8 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
 -   :telescope: Check out my [distill website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com").
--   :seedling: I work a 9-5 job and provide freelance services in my spare time. I'm currently learning Python for data analysis.
--   :dancers: I have made a few open-source contributions to {openxlsx} R package. I'm looking to collaborate on anything R related outside of my work network.
+-   :seedling: I work a 9-5 job and provide freelance services in my spare time.
+-   :dancers: I have contributed to the open-source project, specifically to {openxlsx} R package. I'm looking to collaborate on anything R related outside of my work network.
 -   :thinking: I'm looking for full-time remote job at an org. that uses R extensively which will allow me to learn further and possibly teach others.
 -   :speech_balloon: Ask me about how to automate your Excel and/or PowerPoint reports and possibly convert them to automated dashboards.
 -   :mailbox: How to reach me: twitter *\@vishal_katti* or email *katti.vishal\@gmail.com*
