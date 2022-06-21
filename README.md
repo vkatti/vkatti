@@ -30,12 +30,19 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
-- [Programming with R {dplyr} - As I Understand It!!](https://vishalkatti.com/posts/2021-07-17-programmingwithdplyr)
 <!-- BLOG-POST-LIST:END -->
+
+## :wrench: Tools
+
+![](Images/tools.png)
+
+## :dart: Certifications
+
+| Certificate/Course Name                                    | Issuing Authority | Acquired on | URL                                                                             |
+|:-----------------------------------------------------------|:------------------|:------------|:--------------------------------------------------------------------------------|
+| Databricks Certified Data Engineering Associate            | DataBricks        | 2022-06-20  | [link](https://credentials.databricks.com/beaa10a2-1780-43b0-a277-2b9040e4046d) |
+| R Programming A-Z™: R For Data Science With Real Exercises | Udemy             | 2017-12-28  | [link](ude.my/UC-9ZYZ24B9)                                                      |
+| The Complete JavaScript Course: Build a Real-World Project | Udemy             | 2017-12-07  | [link](ude.my/UC-2Z7RF1SF)                                                      |
 
 ## :briefcase: Work Experience
 
@@ -73,24 +80,19 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 ## :zap: Skills
 
-| Skills                                                                | Tools                                                                |
-|:----------------------------------------------------------------------|:---------------------------------------------------------------------|
-| Data Cleansing, Feature Engineering, Data Modelling, Visualizations   | R, Python, MS Excel, PowerBI                                         |
-| Web Apps, Dashboards                                                  | R Shiny, Python, MS Excel, PowerBI                                   |
-| SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS) |
-| Data Analytics                                                        | R, Python, MS Excel, PowerBI                                         |
-| VBA Macros, Userforms, Excel Add-ins                                  | MS Excel, Word, Outlook, PowerPoint                                  |
-| Report Design                                                         | R, MS Excel, SQL, Word, PowerPoint                                   |
-| Requirement Documentation and Change Request Management               | MS Word, Application LifeCycle Manager (ALM), Rally for Agile        |
-| Mockups, UI and Usability Design                                      | MS PowerPoint, Balsamiq Mockups for Desktop, MS Visio                |
-| Project Management                                                    | \-                                                                   |
-| Process Improvement                                                   | PDCA, Lean Six Sigma, VBA Automation                                 |
-| Automation/Manual Testing                                             | TCS Selenium X, TCS MasterCraft ALM                                  |
-| Test Planning, Test Cases, User Acceptance Testing, Defect Management | TCS MasterCraft ALM, MS Excel, Rally for Agile                       |
-
-## :wrench: Tools
-
-![](Images/tools.png)
+| Skills                                                                | Tools                                                                                |
+|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+| Data Cleansing, Feature Engineering, Data Modelling, Visualizations   | R, Python, Apache Spark, MS Excel, PowerBI                                           |
+| Web Apps, Dashboards                                                  | R Shiny, Python, MS Excel, PowerBI                                                   |
+| SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS), Databricks SQL |
+| Data Analytics                                                        | R, Python, Apache Spark, MS Excel, PowerBI                                           |
+| VBA Macros, Userforms, Excel Add-ins                                  | MS Excel, Word, Outlook, PowerPoint                                                  |
+| Report Design                                                         | R, MS Excel, SQL, Word, PowerPoint                                                   |
+| Requirement Documentation and Change Request Management               | MS Word, Rally for Agile                                                             |
+| Mockups, UI and Usability Design                                      | MS PowerPoint, Balsamiq Mockups for Desktop, MS Visio                                |
+| Process Improvement                                                   | PDCA, Lean Six Sigma, VBA Automation                                                 |
+| Test Planning, Test Cases, User Acceptance Testing, Defect Management | MS Excel, Rally for Agile                                                            |
+| Project Management                                                    | \-                                                                                   |
 
 ## :books: Education
 

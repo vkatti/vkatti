@@ -22,7 +22,7 @@ gs4_auth(email = "katti.vishal@gmail.com")
 skills         <- read_sheet(ss = gsheet, sheet = "Skills")
 tools          <- read_sheet(ss = gsheet, sheet = "Tools")
 highlights     <- read_sheet(ss = gsheet, sheet = "Highlights")
-#certifications <- read_sheet(ss = gsheet, sheet = "Certifications")
+certifications <- read_sheet(ss = gsheet, sheet = "Certifications")
 work           <- read_sheet(ss = gsheet, sheet = "Work")
 education      <- read_sheet(ss = gsheet, sheet = "Education")
 
@@ -47,6 +47,42 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+## :wrench: Tools
+
+```{r tools}
+tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control","MS Visio","Apache Spark with Databricks","Python for Data Analysis", "SQL","MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
+g <- ggplot(tools) +
+  theme_minimal() +
+  geom_col(aes(x = Score, y = Tool, fill = Score)) +
+  geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white", size = 3) +
+  geom_text(aes(x = Score-0.25, y = Tool, label = paste0(Score,"/10")), hjust = 1, color = "white", size = 3) +
+  expand_limits(x = c(0, 10), y = c(0,0)) +
+  scale_fill_gradient2() +
+  ggtitle("    Tool Competency Levels", 
+       subtitle = "       Scores out of 10 for each tool.") +
+  labs(caption = "        Data Source: Vishal's MyCV GSheet. Built with {ggplot2}") +
+  theme(legend.position = "none",
+        axis.title = element_blank(),
+        axis.text = element_blank(),
+        panel.grid = element_blank(),
+        plot.caption = element_text(hjust = 0, size = 7, color = "darkgray"),
+        plot.title = element_text(color = "darkgray"),
+        plot.subtitle = element_text(color = "darkgray", size = 8, hjust = 0),
+        panel.background = element_rect(fill = "transparent",colour = NA),
+        plot.background = element_rect(fill = "transparent",colour = NA)
+        )
+
+ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, width = 5, height = 3)
+```
+
+![](Images/tools.png)
+
+## :dart: Certifications
+
+```{r certs}
+certifications %>% mutate(URL = glue::glue("[link]({URL})")) %>% kable()
+```
 
 ## :briefcase: Work Experience
 
@@ -85,36 +121,6 @@ highlights %>%
 ```{r skills}
 kable(skills)
 ```
-
-## :wrench: Tools
-
-```{r tools}
-tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control","MS Visio","Python for Data Analysis", "SQL","MS Word/Powerpoint", "Advanced Excel + VBA", "R"))) 
-g <- ggplot(tools) +
-  theme_minimal() +
-  geom_col(aes(x = Score, y = Tool, fill = Score)) +
-  geom_text(aes(x = 0.25, y = Tool, label = Tool), hjust = 0, color = "white", size = 3) +
-  geom_text(aes(x = Score-0.25, y = Tool, label = paste0(Score,"/10")), hjust = 1, color = "white", size = 3) +
-  expand_limits(x = c(0, 10), y = c(0,0)) +
-  scale_fill_gradient2() +
-  ggtitle("    Tool Competency Levels", 
-       subtitle = "       Scores out of 10 for each tool.") +
-  labs(caption = "        Data Source: Vishal's MyCV GSheet. Built with {ggplot2}") +
-  theme(legend.position = "none",
-        axis.title = element_blank(),
-        axis.text = element_blank(),
-        panel.grid = element_blank(),
-        plot.caption = element_text(hjust = 0, size = 7, color = "darkgray"),
-        plot.title = element_text(color = "darkgray"),
-        plot.subtitle = element_text(color = "darkgray", size = 8, hjust = 0),
-        panel.background = element_rect(fill = "transparent",colour = NA),
-        plot.background = element_rect(fill = "transparent",colour = NA)
-        )
-
-ggsave(filename = "Images/tools.png", plot = g, bg = "transparent", dpi = 600, width = 5, height = 3)
-```
-
-![](Images/tools.png)
 
 ## :books: Education
 
