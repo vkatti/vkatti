@@ -30,11 +30,6 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
-- [Interactive Drill-down Tables using {reactable}](https://vishalkatti.com/posts/2021-07-27-drilldown)
-- [Programming with R {dplyr} - As I Understand It!!](https://vishalkatti.com/posts/2021-07-17-programmingwithdplyr)
 <!-- BLOG-POST-LIST:END -->
 
 ## :wrench: Tools
@@ -45,13 +40,13 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 | Certificate/Course Name                                    | Issuing Authority | Acquired on | URL                                                                             |
 |:-----------------------------------------------------------|:------------------|:------------|:--------------------------------------------------------------------------------|
-| Databricks Certified Data Engineering Associate            | DataBricks        | 2022-06-20  | [link](https://credentials.databricks.com/beaa10a2-1780-43b0-a277-2b9040e4046d) |
+| Databricks Certified Data Engineering Associate            | DataBricks        | 2022-06-21  | [link](https://credentials.databricks.com/beaa10a2-1780-43b0-a277-2b9040e4046d) |
 | R Programming A-Z™: R For Data Science With Real Exercises | Udemy             | 2017-12-28  | [link](ude.my/UC-9ZYZ24B9)                                                      |
 | The Complete JavaScript Course: Build a Real-World Project | Udemy             | 2017-12-07  | [link](ude.my/UC-2Z7RF1SF)                                                      |
 
 ## :briefcase: Work Experience
 
-**Total 11 Years 8 Months Experience**
+**Total 11 Years 9 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
