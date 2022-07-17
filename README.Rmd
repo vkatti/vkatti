@@ -30,8 +30,6 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 ### Hi there :wave:
 
-[![Visits Badge](https://badges.pufler.dev/visits/vikatti/vikatti)](https://vishalkatti.com)
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
 -   :telescope: Check out my [distill website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com").
