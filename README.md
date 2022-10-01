@@ -6,32 +6,29 @@ Vishal Katti
 [![Twitter
 Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
--   :telescope: Check out my [distill website and blog hosted on
-    Netlify](https://vishalkatti.com "https://vishalkatti.com").
--   :seedling: I work a 9-5 job and provide freelance services in my
-    spare time.
--   :dancers: I have contributed to the open-source project,
-    specifically to {openxlsx} R package. I’m looking to collaborate on
-    anything R related outside of my work network.
+-   :telescope: In process of migrating my [distill website and blog
+    hosted on
+    Netlify](https://vishalkatti.com "https://vishalkatti.com") to
+    Quarto!
+-   :seedling: Full-time Business Data Analyst and part-time freelance
+    consultant.
+-   :dancers: Contributed to open-source, specifically to
+    [openxlsx](https://cran.r-project.org/web/packages/openxlsx/) and
+    [croquet](https://github.com/pcctc/croquet) R packages. Looking for
+    opportunities to contribute more.
 -   :thinking: I’m looking for full-time remote job at an org. that uses
     R extensively which will allow me to learn further and possibly
     teach others.
--   :speech_balloon: Ask me about how to automate your Excel and/or
-    PowerPoint reports and possibly convert them to automated
-    dashboards.
+-   :speech_balloon: Ask me about how to automate your manual reports
+    and other process improvement methods.
 -   :mailbox: How to reach me: twitter *@vishal_katti* or email
     *katti.vishal@gmail.com*
--   :zap: Fun fact: The data in this .md file comes from Google Sheets
+-   :zap: Fun fact: The data in this .md file comes from a Google Sheet
     and is created with R and :sparkling_heart:
 
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Pivoting your tables with Tidyr: Part II](https://vishalkatti.com/posts/2022-08-29-tidyrpivotwider)
-- [Pivoting your tables with Tidyr: Part I](https://vishalkatti.com/posts/2022-07-08-tidyrpivotlonger)
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
 <!-- BLOG-POST-LIST:END -->
 
 ## :wrench: Tools
@@ -48,7 +45,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 ## :briefcase: Work Experience
 
-**Total 11 Years 9 Months Experience**
+**Total 12 Years 0 Months Experience**
 
 | Employer                                  | Location             | Role                       | From     | To        |
 |:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
@@ -59,12 +56,13 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 |                                           | Mumbai, Maharashtra  | Functional Consultant      | Jan 2014 | May 2016  |
 |                                           |                      | Business Analyst           | Oct 2011 | Dec 2013  |
 |                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
-|                                           | Trivandrum, Kerela   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
+|                                           | Trivandrum, Kerala   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
 ## :tada: Career Highlights
 
 | Highlights                                                                                                                                                          | Where                           | When              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:------------------|
+| Extended functionality and fixed Issue \#6 in R package {croquet} via Github pull request(<https://github.com/pcctc/croquet/pull/7>)                                | Open Source Contribution        | Sep 2022          |
 | Received 7/7 performance rating for 3 Quarters in a row                                                                                                             | Mindtree Ltd.                   | Oct 2021-Apr 2022 |
 | Extended conditional formatting feature and fixed Issue \#179 in R package {openxlsx} via Github pull request (<https://github.com/ycphs/openxlsx/pull/311>)        | Open Source Contribution        | Jan 2022          |
 | Received customer appreciation for using Python for data cleaning and consolidation, which would otherwise take 2 weeks to do manually.                             | Mindtree Ltd.                   | Oct 2021          |
