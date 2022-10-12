@@ -32,7 +32,7 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
--   :telescope: In process of migrating my [distill website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com") to Quarto!
+-   :telescope: New  [Quarto website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com").
 -   :seedling: Full-time Business Data Analyst and part-time freelance consultant.
 -   :dancers: Contributed to open-source, specifically to [openxlsx](https://cran.r-project.org/web/packages/openxlsx/) and [croquet](https://github.com/pcctc/croquet) R packages. Looking for opportunities to contribute more.
 -   :thinking: I'm looking for full-time remote job at an org. that uses R extensively which will allow me to learn further and possibly teach others.
