@@ -29,11 +29,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Pivoting your tables with Tidyr: Part II](https://vishalkatti.com/posts/2022-08-29-tidyrpivotwider)
-- [Pivoting your tables with Tidyr: Part I](https://vishalkatti.com/posts/2022-07-08-tidyrpivotlonger)
-- [Writing Robust R Functions](https://vishalkatti.com/posts/2022-01-18-writingrobustrfunctions)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/2021-12-29-rtovbatoppt)
-- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/2021-08-29-rtovbatoppt)
+- [Pivoting your tables with Tidyr: Part II](https://vishalkatti.com/posts/tidyr-pivot-wider/index.html)
+- [Pivoting your tables with Tidyr: Part I](https://vishalkatti.com/posts/tidyr-pivot-longer/index.html)
+- [Writing Robust R Functions](https://vishalkatti.com/posts/writing-robust-functions/index.html)
+- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 2 of 2](https://vishalkatti.com/posts/R2VBA2PPT2/index.html)
+- [Unholy Trinity of R, Excel VBA and Powerpoint - Part 1 of 2](https://vishalkatti.com/posts/R2VBA2PPT1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :wrench: Tools
