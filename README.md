@@ -43,18 +43,18 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 
 ## :briefcase: Work Experience
 
-**Total 12 Years 0 Months Experience**
+**Total 12 Years 1 Months Experience**
 
-| Employer                                  | Location             | Role                       | From     | To        |
-|:------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
-| Mindtree Ltd.                             | Bengaluru, Karnataka | Business Data Analyst      | Sep 2021 | Till Date |
-| ExxonMobil Services & Technology Pvt. Ltd | Bengaluru, Karnataka | Business Analytics Advisor | Oct 2020 | Aug 2021  |
-|                                           |                      | Data Analyst               | Jun 2018 | Sep 2020  |
-| Tata Consultancy Services Pvt. Ltd.       | Bengaluru, Karnataka | Data Analyst               | Jun 2016 | May 2018  |
-|                                           | Mumbai, Maharashtra  | Functional Consultant      | Jan 2014 | May 2016  |
-|                                           |                      | Business Analyst           | Oct 2011 | Dec 2013  |
-|                                           |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
-|                                           | Trivandrum, Kerala   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
+| Employer                                                                | Location             | Role                       | From     | To        |
+|:------------------------------------------------------------------------|:---------------------|:---------------------------|:---------|:----------|
+| LTIMindtree Ltd. (Formerly Mindtree Ltd., now merged with L&T InfoTech) | Bengaluru, Karnataka | Business Data Analyst      | Sep 2021 | Till Date |
+| ExxonMobil Services & Technology Pvt. Ltd                               | Bengaluru, Karnataka | Business Analytics Advisor | Oct 2020 | Aug 2021  |
+|                                                                         |                      | Data Analyst               | Jun 2018 | Sep 2020  |
+| Tata Consultancy Services Pvt. Ltd.                                     | Bengaluru, Karnataka | Data Analyst               | Jun 2016 | May 2018  |
+|                                                                         | Mumbai, Maharashtra  | Functional Consultant      | Jan 2014 | May 2016  |
+|                                                                         |                      | Business Analyst           | Oct 2011 | Dec 2013  |
+|                                                                         |                      | Associate Systems Engineer | Jan 2011 | Sep 2011  |
+|                                                                         | Trivandrum, Kerala   | Associate Systems Engineer | Sep 2010 | Dec 2010  |
 
 ## :tada: Career Highlights
 
@@ -81,7 +81,7 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 | Skills                                                                | Tools                                                                                |
 |:----------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
 | Data Cleansing, Feature Engineering, Data Modelling, Visualizations   | R, Python, Apache Spark, MS Excel, PowerBI                                           |
-| Web Apps, Dashboards                                                  | R Shiny, Python, MS Excel, PowerBI                                                   |
+| Web Apps, Dashboards                                                  | R Shiny, Python, MS Excel, PowerBI, PowerApps                                        |
 | SQL Queries & Reporting                                               | SQL Server, MS Access, Microsoft SQL Server Management Studio (SSMS), Databricks SQL |
 | Data Analytics                                                        | R, Python, Apache Spark, MS Excel, PowerBI                                           |
 | VBA Macros, Userforms, Excel Add-ins                                  | MS Excel, Word, Outlook, PowerPoint                                                  |
