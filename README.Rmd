@@ -49,7 +49,7 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 ## :wrench: Tools
 
 ```{r tools}
-tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control","PowerApps/PowerBI","Apache Spark with Databricks","Python for Data Analysis", "MS Word/Powerpoint","SQL", "Advanced Excel + VBA", "R"))) 
+tools <- tools %>% mutate(Tool = factor(Tool, levels = c("MS Access", "Git/Github/Gitlab Version Control","PowerApps/PowerBI/PowerAutomate","Apache Spark with Databricks","MS Purview","Python for Data Analysis", "MS Word/Powerpoint","SQL", "Advanced Excel + VBA", "R"))) 
 g <- ggplot(tools) +
   theme_minimal() +
   geom_col(aes(x = Score, y = Tool, fill = Score)) +
