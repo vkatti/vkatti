@@ -35,7 +35,6 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 -   :telescope: New [Quarto website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com").
 -   :seedling: Full-time Business Data Analyst and part-time freelance consultant.
 -   :dancers: Contributed to open-source, specifically to [openxlsx](https://cran.r-project.org/web/packages/openxlsx/) and [croquet](https://github.com/pcctc/croquet) R packages. Looking for opportunities to contribute more.
--   :thinking: I'm looking for full-time remote job at an org. that uses R extensively which will allow me to learn further and possibly teach others.
 -   :speech_balloon: Ask me about how to automate your manual reports and other process improvement methods.
 -   :mailbox: How to reach me: twitter *\@vishal_katti* or email *katti.vishal\@gmail.com*
 -   :zap: Fun fact: The data in this .md file comes from a Google Sheet and is created with R and :sparkling_heart:
