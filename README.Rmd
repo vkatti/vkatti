@@ -32,8 +32,8 @@ education      <- read_sheet(ss = gsheet, sheet = "Education")
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vishal_katti)
 
--   :telescope: New [Quarto website and blog hosted on Netlify](https://vishalkatti.com "https://vishalkatti.com").
--   :seedling: Full-time Business Data Analyst and part-time freelance consultant.
+-   :telescope: New [Quarto website and blog](https://vishalkatti.com "https://vishalkatti.com").
+-   :seedling: Full-time Business Data Analyst at LTIMindtree Ltd., Bengaluru, India.
 -   :dancers: Contributed to open-source, specifically to [openxlsx](https://cran.r-project.org/web/packages/openxlsx/) and [croquet](https://github.com/pcctc/croquet) R packages. Looking for opportunities to contribute more.
 -   :speech_balloon: Ask me about how to automate your manual reports and other process improvement methods.
 -   :mailbox: How to reach me: twitter *\@vishal_katti* or email *katti.vishal\@gmail.com*
