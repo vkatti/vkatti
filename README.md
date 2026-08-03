@@ -24,11 +24,11 @@ Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&log
 ## :memo: Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Accounting is Just a Signed Graph](https://vishalkatti.com/posts/accounting-as-signed-graph/)
 - [Beyond 01/31/2024](https://vishalkatti.com/posts/date-format/)
 - [Python - List Comprehension](https://vishalkatti.com/posts/python-list-comprehension/)
 - [Pivoting your tables with Tidyr: Part II](https://vishalkatti.com/posts/tidyr-pivot-wider/)
 - [Pivoting your tables with Tidyr: Part I](https://vishalkatti.com/posts/tidyr-pivot-longer/)
-- [Writing Robust R Functions](https://vishalkatti.com/posts/writing-robust-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :wrench: Tools
